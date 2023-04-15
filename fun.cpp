@@ -7,7 +7,7 @@ int main()
 
     cout << "enter 2 nos";
     cin >> a >> b;
-    c = a + b;
-    cout << "addition is " << c;
+    c = a - b;
+    cout << "Subtract is  " << c;
     return 0;
 }
